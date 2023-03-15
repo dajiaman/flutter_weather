@@ -2,4 +2,4 @@
 
 just a ui
 
-[image](https://raw.githubusercontent.com/dajiaman/flutter_weather/main/preview/Screenshot_1678895940.png)
+<img = src="https://raw.githubusercontent.com/dajiaman/flutter_weather/main/preview/Screenshot_1678895940.png" alt="image" style="zoom:20%;"/>
